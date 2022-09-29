@@ -11,7 +11,7 @@ This repository is simply a series of tips and tricks for those participating in
 #### General
 - When copy/pasting in the VM window, sometimes need to hit CTRL-C twice otherwise it retains only the previous copied item
 	
-#### Exercise 1 - Task 3 - Step 5**
+#### Exercise 1 - Task 3 - Step 5
 - Setting up Azure Migrate - appliance configuration manager - connection to Azure fails
   - Also popped up a dialog saying updates need to be installed (windows updates)
     - I selected to install updates
@@ -19,7 +19,7 @@ This repository is simply a series of tips and tricks for those participating in
     - Once VM updates are installed - the connection to Azure works as expected.
 	- Had a time when some updates failed and had to retry. The check for updates never quite completed but, the check Azure connection associated steps completed ok regardless.
 
-#### Exercise 1- Task3 - Step 15**
+#### Exercise 1- Task3 - Step 15
 - The VM restarted for whatever reason so had to login to VM jumpbox, then back into Migrate assistant VM and it restarted the Migrate assistant process which means it checks connectivity to azure, syncs time, and check latest appliance updates which takes time
 - This also takes you back to step 9
 
