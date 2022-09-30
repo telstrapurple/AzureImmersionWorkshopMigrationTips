@@ -36,3 +36,9 @@ This repository is simply a series of tips and tricks for those participating in
   - Or ctrl-V, then mouse right click
 
 
+### Exercise 2 - Task 3 - Database Schema Migration
+- Had an issue where I performed a schema migration which completed successfully. However the lab validation fails onm this step.
+  - Have lodged a support email to verify whether I have missed something or its a bug
+- Addtionally, the data migration reported as still running on the main blade even though the process itself completed.
+- Update: After a while the data migration shows completed on the main blade **and** the lab now validates.
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/435165/193194975-2c296820-1cfd-4997-9dcd-9aee171737d2.png">
