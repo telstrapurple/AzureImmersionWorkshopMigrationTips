@@ -36,7 +36,7 @@ This repository is simply a series of tips and tricks for those participating in
   - Or ctrl-V, then mouse right click
 
 
-### Exercise 2 - Task 3 - Database Schema Migration
+#### Exercise 2 - Task 3 - Database Schema Migration
 - Had an issue where I performed a schema migration which completed successfully. However the lab validation fails onm this step.
   - Have lodged a support email to verify whether I have missed something or its a bug
 - Addtionally, the data migration reported as still running on the main blade even though the process itself completed.
